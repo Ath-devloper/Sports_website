@@ -1,0 +1,28 @@
+      h1 {
+        text-align: center;
+        color: rgb(144, 131, 19);
+      }
+      li {
+        margin-bottom: 10px;
+        font-size: 30px;
+      }
+      ul,h2 {
+        list-style-position: inside;
+        text-align: center;
+        border-style:outset;
+      }
+      ul li img {
+        display: block;
+        margin: 0px auto;
+        width: 300px;
+        border-radius: 10px;
+      }
+      ul{
+        color: rgb(88, 27, 180);
+      }
+      *{
+        background-color: skyblue;
+      }
+      img{
+        margin: 0PX auto;
+      }
