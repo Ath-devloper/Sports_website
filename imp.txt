@@ -1,0 +1,2 @@
+this website is now only made till basics html and css 
+css div span etc are need to be implemented
